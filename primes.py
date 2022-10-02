@@ -1,9 +1,5 @@
 """List of prime numbers generator."""
 """ENTER YOUR SOLUTION HERE!"""
-
-from urllib.parse import non_hierarchical
-
-
 def primes(number_of_primes):
     primeList = []
     nonPrimeList = []
